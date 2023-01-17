@@ -2,6 +2,6 @@ def hello():
     print("hi")
 
 def bye():
-    print("bye")
+  rint("bye")
 
 print(hello())
